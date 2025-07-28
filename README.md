@@ -21,7 +21,7 @@ I enjoy web development and video game development.
 
 ---
 
-### 💻 My Skills
+<h3><strong>💻 My Skills</strong></h3>
 
 #### 👨‍💻 Programming languages  
 <div style="display:flex; flex-direction:row">
