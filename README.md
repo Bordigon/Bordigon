@@ -2,7 +2,9 @@
 <h1 align="center"> Hello I am Gustavo </h1>
 
 <p align="center">
-si
+I am currently studying IT, while also taking a full stack development course in parallel.
+I know <strong>Java, JavaScript, Python,</strong> and other programming languages listed below.
+I enjoy web development and video game development.
 </p>
 
 <p align="center">
@@ -41,7 +43,7 @@ si
 
 ---
 
-### 📊 GitHub Stats (Expand to View)
+### 📊 GitHub Stats
 
 <details>
 <summary>💻 GitHub Profile Stats</summary>
