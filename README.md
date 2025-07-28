@@ -24,7 +24,7 @@ I enjoy web development and video game development.
 ### 💻 My Skills
 
 #### 👨‍💻 Programming languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 
 #### 🌐 Frontend Development  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
