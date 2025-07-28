@@ -78,7 +78,7 @@ I enjoy web development and video game development.
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="" alt=""/>
+  <img src="https://github.com/Bordigon#js-contribution-activity-description" alt=""/>
 </p>
 
 </details>
