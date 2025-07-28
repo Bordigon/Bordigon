@@ -13,7 +13,7 @@ I enjoy web development and video game development.
 
 ---
 
-### 🔥 Streak Stats
+<h4><strong>🔥 Streak Stats</strong></h4>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bordigon&theme=dark&hide_border=true" alt="streak stats"/>
@@ -23,31 +23,32 @@ I enjoy web development and video game development.
 
 <h4><strong>💻 My Skills</strong></h4>
 
-#### 👨‍💻 Programming languages  
+<h5><strong>👨‍💻 Programming languages</strong></h5>  
 <div style="display:flex; flex-direction:row">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </div>
 
-#### 🌐 Frontend Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+<h5><strong>🌐 Frontend Development  </strong></h5>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
 
-#### ☁️ Databases & Cloud Hosting  
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)
+<h5><strong>☁️ Databases & Cloud Hosting</strong></h5>   
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
 
 
-#### 🛠️ Software & Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
+<h5><strong>🛠️ Software & Tools</strong></h5>  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/>
 
 ---
 
-### 📊 GitHub Stats
+<h4><strong>📊 GitHub Stats</strong></h4> 
 
 <details>
 <summary>💻 GitHub Profile Stats</summary>
@@ -78,7 +79,7 @@ I enjoy web development and video game development.
 
 </details>
 
-### 🤝 Let’s Connect
+<h4><strong>🤝 Let’s Connect</strong></h4> 
 
 <p align="center">
   <a href="mailto:gistavovg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
