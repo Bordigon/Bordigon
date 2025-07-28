@@ -78,7 +78,7 @@ I enjoy web development and video game development.
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CarolinaNFeria&theme=github-compact" alt="Activity Graph"/>
+  <img src="" alt=""/>
 </p>
 
 </details>
