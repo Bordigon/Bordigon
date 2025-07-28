@@ -46,8 +46,6 @@ I enjoy web development and video game development.
 
 <h5><strong>🛠️ Software & Tools</strong></h5> 
 <div style="display:flex; flex-direction:row">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/>
 </div>
