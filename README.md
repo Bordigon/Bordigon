@@ -76,6 +76,12 @@ I enjoy web development and video game development.
 
 <br/>
 
+### Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirescobar&layout=compact&theme=radical" alt="Top Languages Stats" />
+</p>
+
 <!-- GitHub Activity Graph -->
 <p align="center">
   <a href="https://github.com/Bordigon#js-contribution-activity-description">My activity</a>
